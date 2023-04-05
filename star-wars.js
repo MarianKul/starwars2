@@ -43,3 +43,6 @@ const pobierzDane = async () => {
 
 pobierzDane();
 
+
+//To bedzie druga wersja pliku g it 
+
